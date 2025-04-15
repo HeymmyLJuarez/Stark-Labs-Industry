@@ -5,6 +5,7 @@ Proyecto: Intranet Corporativa – Stark Labs Industry
 Autores:
 Heymmy López Juárez
 Jafet Araya Artavia
+Pablo Guerreo Gonzalez
 
 Instalación de SharePoint Server 2019 en Máquina Virtual
 Entorno: Windows Server 2022 + SQL Server Developer 2022 + SSMS 20 + Dominio: root
